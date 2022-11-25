@@ -6,5 +6,6 @@ public class gitmaven {
         System.out.println("sss");
         System.out.println("sss");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
